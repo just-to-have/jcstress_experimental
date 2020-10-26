@@ -78,7 +78,6 @@ public class FreezingFinalFieldsInConstructor {
 				var6 = value;
 				var7 = value;
 				var8 = value;
-
 			}
 
 			private int getSum() {
@@ -141,7 +140,6 @@ public class FreezingFinalFieldsInConstructor {
 				var6 = value;
 				var7 = value;
 				var8 = value;
-
 			}
 
 			private int getSum() {
